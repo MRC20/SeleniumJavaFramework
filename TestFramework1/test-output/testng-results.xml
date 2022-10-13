@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-03T15:41:53 IST" name="Default suite" finished-at="2022-10-03T15:42:02 IST" duration-ms="8835">
+    <groups>
+    </groups>
+    <test started-at="2022-10-03T15:41:53 IST" name="Default test" finished-at="2022-10-03T15:42:02 IST" duration-ms="8835">
+      <class name="TestScenarios.TestMethods_GoogleSearch">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:TestScenarios.TestMethods_GoogleSearch@45099dd3]" started-at="2022-10-03T15:41:53 IST" name="beforetest" finished-at="2022-10-03T15:41:57 IST" duration-ms="3378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="SearchOperation()[pri:0, instance:TestScenarios.TestMethods_GoogleSearch@45099dd3]" started-at="2022-10-03T15:41:57 IST" name="SearchOperation" finished-at="2022-10-03T15:41:59 IST" duration-ms="1996" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchOperation -->
+        <test-method signature="VerifyAccessFacebook()[pri:0, instance:TestScenarios.TestMethods_GoogleSearch@45099dd3]" started-at="2022-10-03T15:41:59 IST" name="VerifyAccessFacebook" finished-at="2022-10-03T15:42:02 IST" duration-ms="3410" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAccessFacebook -->
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:TestScenarios.TestMethods_GoogleSearch@45099dd3]" started-at="2022-10-03T15:42:02 IST" name="aftertest" finished-at="2022-10-03T15:42:02 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- TestScenarios.TestMethods_GoogleSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
